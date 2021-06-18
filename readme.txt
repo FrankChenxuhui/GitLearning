@@ -6,3 +6,4 @@ delete numbers
 Creating a new branch is quik and simple.
 change
 987654
+123456
